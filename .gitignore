@@ -12,3 +12,4 @@ local.properties
 
 # Keep APKs in root, ignore build outputs
 **/app/build/
+*.apk
